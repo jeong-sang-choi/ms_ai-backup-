@@ -82,4 +82,4 @@ result_to_yolo(ori_image_folder="org_img", # 원래의 image folder
                kps_csv_path="makesense_rect_and_kps/keypoint.csv", # keypoints csv의 path
                output_image_folder="datasets/images/val", # 모든 image가 복사될 folder
                output_yolo_folder="datasets/labels/val") # 모든 yolo 출력이 담길 folder
-    # folder는 맨 마지막 "/" 없이 작성.
+
